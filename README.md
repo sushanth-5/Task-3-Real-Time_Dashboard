@@ -116,4 +116,6 @@ This repository is maintained for academic and internship purposes only.
 
 ## OUTPUT of this task:
 ![Image](https://github.com/user-attachments/assets/93d8f7a9-7306-48fe-b8ef-de6ba9ec7840)
+![Image](https://github.com/user-attachments/assets/8d819ca7-4246-40f6-8817-29c8fde8c271)
+![Image](https://github.com/user-attachments/assets/f217a1b0-f839-4eb6-9e60-8f86c50c4616)
 
