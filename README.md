@@ -115,4 +115,7 @@ This task gave me practical experience in building dashboards that reflect **up-
 This repository is maintained for academic and internship purposes only.
 
 ## OUTPUT of this task:
+![Image](https://github.com/user-attachments/assets/93d8f7a9-7306-48fe-b8ef-de6ba9ec7840)
+![Image](https://github.com/user-attachments/assets/f835f16a-45b0-4002-9329-ca0c633eecae)
+![Image](https://github.com/user-attachments/assets/5869f47f-6a98-43d1-8925-77e7a9891ae0)
 
